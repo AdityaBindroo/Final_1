@@ -1,5 +1,5 @@
 def square(x):
-  pass
+  return a*b #in main
 def add(a,b):
   pass
 def sub(a,b):
